@@ -1,4 +1,4 @@
-# Nährwerk – Health App Prototyp
+# Fiber – Health App Prototyp
 
 Klickbarer Prototyp einer persönlichen Ernährungs- und Rezept-App. Einfach `index.html` im Browser öffnen (am besten in der Handy-Ansicht).
 
