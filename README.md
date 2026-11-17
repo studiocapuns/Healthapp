@@ -10,3 +10,6 @@ Klickbarer Prototyp einer persönlichen Ernährungs- und Rezept-App. Einfach `in
 - **Fortschritt**: Gewichtsverlauf mit Ziel, Kalorien der letzten 7 Tage, Proteinziel, Körperfett, Meilensteine
 
 Alle Daten sind Demo-Daten und werden nur lokal im Browser gespeichert. Die Garmin-Verbindung ist simuliert.
+
+## Bilder
+Die Food-Fotos in `img/` stammen von [Unsplash](https://unsplash.com) und stehen unter der Unsplash-Lizenz (frei nutzbar, auch kommerziell). Vor dem Launch sollten sie durch eigene Fotos oder lizenzierte Bilder aus der Rezept-Datenbank ersetzt werden.
