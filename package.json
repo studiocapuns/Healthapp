@@ -1,0 +1,13 @@
+{
+  "name": "fiber",
+  "private": true,
+  "description": "Fiber – personalisierte Ernährung, Rezepte und Training",
+  "scripts": {
+    "test": "node --test tests/engine.test.js",
+    "build:data": "node scripts/build-seed.js && cp core/engine.js supabase/functions/_shared/engine.js",
+    "validate:db": "node scripts/validate-db.mjs"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.2.17"
+  }
+}
