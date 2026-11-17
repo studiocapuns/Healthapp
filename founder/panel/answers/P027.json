@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ich würde vielleicht die Gratisversion oder die 14 Tage testen, aber zahlen tu ich erst, wenn ich App-Store-Bewertungen gesehen habe und jemand im Laufclub sagt, dass es taugt. Eine neue App ohne Bewertungen bekommt von mir nicht gleich CHF 79.",
+  "objection": "Ob der Sync mit meiner Garmin wirklich sauber läuft und die Kalorien an Trainingstagen realistisch angepasst werden, oder ob es wieder nur grobe Schätzungen sind wie bei anderen Apps. Einen Essensplan, der nicht zu meinem Alltag passt, ignoriere ich nach einer Woche sowieso.",
+  "would_change_my_mind": "Gute Bewertungen im App Store (4.5+ mit echten Erfahrungsberichten von Läufern/Kraftsportlern) oder ein Kollege aus dem Laufclub, der es seit ein paar Monaten nutzt und Resultate hat.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich logge seit Jahren mit MacroFactor, kenne meine Makros und das passt sich schon an mein Gewicht an. Dazu zahle ich bereits für Runna – noch ein Abo für CHF 9.90 im Monat, nur damit mir jemand einen Essensplan vorschreibt, den ich eh nicht 1:1 koche, lohnt sich für mich nicht.",
+  "objection": "Ein weiteres Abo für etwas, das ich mit meinen Tools und meiner Erfahrung schon grösstenteils selbst mache. Und ich müsste meine ganze Loghistorie wechseln oder doppelt pflegen.",
+  "would_change_my_mind": "Wenn Fiber meinen Runna- bzw. Garmin-Plan wirklich liest und mir für lange Läufe und die Rennwoche konkretes Carb-Loading und Verpflegung vorgibt, und ich meine MacroFactor-Daten importieren könnte – dann würde ich vor dem nächsten Marathon das Jahresabo testen.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

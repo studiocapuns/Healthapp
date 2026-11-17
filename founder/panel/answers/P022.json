@@ -1,0 +1,13 @@
+{
+  "id": "P022",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich habe schon einen Trainer, der mir sagt, was ich vor und nach langen Läufen esse, und Garmin zeigt mir Kalorien und Belastung. Einen Tagesplan mit Portionen brauche ich nicht noch dazu, den würde ich im Alltag eh nicht einhalten.",
+  "objection": "Warum noch eine App neben Garmin und meinem Coach? Wenn die App etwas anderes empfiehlt als mein Trainer, wem glaube ich dann?",
+  "would_change_my_mind": "Wenn mein Coach die Pläne sehen und anpassen könnte und Fiber sich gezielt auf Rennvorbereitung einstellt (Carb-Loading vor dem Marathon, Verpflegung im Lauf), statt allgemeine Tagespläne zu machen.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 9,
+  "price_too_expensive": 15
+}

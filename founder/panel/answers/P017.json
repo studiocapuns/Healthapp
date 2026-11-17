@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ernährungstipps bekomme ich schon von meinem Coach, und für meinen Marathonplan nutze ich Runna. Noch eine App, die mir einen Essensplan vorschreibt, brauche ich nicht. Ich würde höchstens die Gratisversion kurz anschauen.",
+  "objection": "Eine neue App ohne Bewertungen, wer steckt dahinter? Und warum soll ich einer App mehr trauen als meinem Coach, der mich und mein Training kennt?",
+  "would_change_my_mind": "Wenn mein Coach sie selbst empfiehlt oder sie mit ihm teilen kann, und es echte Bewertungen von Läufern gibt, die damit ihre Rennvorbereitung gemacht haben.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P031",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich logge seit Jahren und kenne meine Makros, meine App passt die Ziele schon an. Einen fixen Essensplan brauche ich nicht, ich koche, was ich mag, und tracke es einfach. Dafür noch ein Abo neben Runna? Eher nicht.",
+  "objection": "Das ist ein weiteres Abo für etwas, das ich im Grunde schon habe. Die Training-Sync klingt nett, aber ich bezweifle, dass sie meine Zahlen spürbar besser macht als das, was ich mir selbst ausrechne.",
+  "would_change_my_mind": "Wenn Fiber meinen bestehenden Tracker komplett ersetzen könnte, inklusive schnellem Logging per Barcode mit Schweizer Produkten und Import meiner Historie, sodass ich unter dem Strich ein Abo weniger habe statt eines mehr.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ich koche sonntags sowieso vor und tracke alles über Garmin und Strava, die Idee mit trainingsabhängigen Makros finde ich spannend. Aber eine neue App ohne Bewertungen, bei der ich nicht weiss, wer dahintersteckt, bekommt nicht gleich Zugriff auf meine Garmin-Daten – höchstens teste ich die Gratis-Version und kündige vor Tag 14.",
+  "objection": "Wer steckt dahinter und was passiert mit meinen Trainings- und Gesundheitsdaten? Und funktioniert der Garmin-Sync wirklich zuverlässig, oder ist das wieder eine halbe Integration wie bei so vielen Apps?",
+  "would_change_my_mind": "Echte Bewertungen von anderen Läufern plus ein Wochenplan, der sich als Meal-Prep für Sonntag kochen lässt und meine Long-Run-Tage automatisch aus dem Garmin-Trainingsplan zieht – dann würde ich das Jahresabo nehmen.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

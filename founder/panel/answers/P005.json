@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich tracke schon alles mit Garmin und MyFitnessPal, und mein Garmin sagt mir sowieso, wie viel ich verbrannt habe. Einen fixen Essensplan mit Rezepten koche ich morgens vor dem Gym eh nicht nach, ich esse jeden Tag ungefähr dasselbe.",
+  "objection": "Ich zahle keine CHF 9.90 im Monat für etwas, das zum grössten Teil meine bestehende Gratis-App plus ein bisschen Rechnen ist, und ich weiss nicht, ob die Garmin-Daten wirklich sauber und automatisch rüberkommen oder ob ich am Ende wieder manuell loggen muss.",
+  "would_change_my_mind": "Wenn Fiber nachweislich mein MyFitnessPal ersetzt, also Logging per Barcode mit Schweizer Produkten plus automatischer Garmin-Sync der tatsächlichen Trainingslast, und das Ziel spürbar besser anpasst als eine fixe Rechnung, würde ich nach dem Gratis-Test das Jahresabo nehmen.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 12
+}

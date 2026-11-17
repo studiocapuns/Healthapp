@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Der Garmin-Sync klingt gut, aber am Ende ist es wieder ein Tagesplan mit Portionsgrössen, und nach dem kochen und abwägen will ich nicht leben. Ich esse, was zuhause ist, und schaue nach dem Long Run, dass ich genug Kohlenhydrate nachlade, das reicht mir.",
+  "objection": "Ein täglicher Essensplan mit Grammangaben ist für mich einfach Kalorienzählen in anderer Verpackung, nach zwei Wochen ignoriere ich den sowieso.",
+  "would_change_my_mind": "Wenn es ohne Plan und ohne Abwägen ginge: nur konkrete Fueling-Hinweise vor und nach harten Einheiten und eine Carb-Loading-Anleitung für die Rennwoche, die automatisch aus meinem Garmin-Trainingsplan kommt.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

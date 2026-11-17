@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ich würde vielleicht die 14 Tage gratis testen, aber danach kündige ich wie immer. Kalorien und Makros krieg ich schon gratis über YAZIO und meine Garmin, und für einen Essensplan zahle ich keine 9.90 im Monat.",
+  "objection": "Ich habe schon MyFitnessPal, YAZIO und Garmin gratis – warum soll ich für noch eine App zahlen, die im Kern auch nur Kalorien zählt?",
+  "would_change_my_mind": "Wenn der Tagesplan mit Training-Sync gratis wäre oder es eine Einmalzahlung um die 20 Franken gäbe statt Abo.",
+  "price_too_cheap": 1,
+  "price_cheap": 2,
+  "price_expensive": 4,
+  "price_too_expensive": 7
+}

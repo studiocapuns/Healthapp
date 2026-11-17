@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Die Garmin-Verknüpfung finde ich spannend, aber ich will tracken, was ich wirklich esse, nicht einen Essensplan nachkochen, den ich nach der Arbeit bei der Migros eh nicht durchziehe. Ich würde das Gratis-Tagesziel nehmen und den Rest in meiner bisherigen App loggen.",
+  "objection": "Noch ein Abo für CHF 9.90, und ich sehe nirgends Food-Logging oder Barcode-Scan. Ohne das fehlen mir genau die Daten, die ich mit Garmin und Strava abgleichen will.",
+  "would_change_my_mind": "Wenn Premium echtes Food-Logging mit Barcode-Scan für Schweizer Produkte hätte und die Daten zurück zu Garmin Connect synchronisiert, würde ich die 14 Tage testen und dann das Jahresabo nehmen.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

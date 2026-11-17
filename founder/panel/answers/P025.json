@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich zahle grundsätzlich nicht für Apps. Die Gratis-Tagesziele schaue ich mir an, vielleicht starte ich die 14 Tage Probezeit, aber danach kündige ich wie immer, bevor etwas abgebucht wird. Für einen Essensplan mit Portionen zahle ich keine 9.90 im Monat, Garmin Connect und mein Trainingsplan reichen mir.",
+  "objection": "Funktioniert das wirklich sauber mit meiner Forerunner und meinem Marathonplan, oder rechnet es einfach aus den verbrannten Kalorien grob was hoch? Und ich will nicht jeden Tag nach einem Plan kochen.",
+  "would_change_my_mind": "Wenn der Training-Sync mit Garmin und das Tankplan-Thema vor langen Läufen und Rennen gratis wären, würde ich die App nutzen. Bezahlen würde ich höchstens einmalig für einen Rennvorbereitungsplan.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

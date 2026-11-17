@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Ich hasse Kalorienzählen, aber für den Marathonblock will ich an harten Tagen genug essen. Wenn Fiber aus Garmin meinen Bedarf rechnet und mir einfach Rezepte mit Portionen gibt, teste ich die 14 Tage und nehme danach das Jahresabo für 79 Franken, das tut mir nicht weh.",
+  "objection": "Ich koche gern und sammle meine eigenen Rezepte auf Instagram. Wenn der Tagesplan langweilige Fitness-Rezepte vorgibt und ich doch wieder alles eintragen muss, ist es nur ein weiteres YAZIO und ich kündige im Trial.",
+  "would_change_my_mind": "Wenn die Rezepte im Trial fad sind oder ich meine eigenen Rezepte nicht einbauen kann, kaufe ich nicht.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

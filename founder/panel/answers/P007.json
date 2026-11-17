@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich koche am Sonntag für die ganze Woche vor und hole meine Rezepte von Instagram. Einen täglichen Essensplan mit Portionen brauche ich dafür nicht, und alles, was nach Kalorienzählen riecht, lasse ich nach zwei Wochen sowieso wieder liegen. Die Gratis-Version schaue ich mir vielleicht an, aber zahlen würde ich nicht.",
+  "objection": "Ob das wirklich genauer ist als die anderen Apps. Ein Kalorienziel aus der Garmin-Uhr ist ja auch nur eine Schätzung, da hilft die Schweizer Datenbank wenig, wenn der Verbrauch schon falsch ist. Und ein Tagesplan passt nicht zu meinem Meal-Prep am Sonntag.",
+  "would_change_my_mind": "Ein Wochenplan für Meal-Prep: am Sonntag eine Einkaufsliste und 3–4 Gerichte für die ganze Woche, die automatisch auf meinen Trainingsplan bis zum Marathon abgestimmt sind, ohne dass ich etwas tracken muss.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 9,
+  "price_too_expensive": 14
+}

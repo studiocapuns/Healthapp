@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich habe schon eine Ernährungsberaterin über meinen Coach, die meine Makros kennt und anpasst. Eine App, die mir zusätzlich einen Tagesplan vorgibt, würde sich eher mit ihren Vorgaben beissen, als mir etwas Neues zu bringen.",
+  "objection": "Ist das wirklich genauer als MyFitnessPal und Co.? Kalorienverbrauch aus der Uhr ist sowieso ungenau, und eine Fachperson, die mich persönlich kennt, ersetzt eine App nicht.",
+  "would_change_my_mind": "Wenn ich den Plan mit meiner eigenen Beraterin teilen und sie die Ziele darin direkt anpassen könnte, sodass die App ihre Arbeit im Alltag umsetzt statt sie zu ersetzen.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

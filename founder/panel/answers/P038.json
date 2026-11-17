@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich habe schon einen Coach, der mir sagt, was ich vor und nach den langen Läufen essen soll. Die Gratis-Version mit Tageszielen schaue ich mir vielleicht an, aber für noch ein Abo neben Strava und Garmin sehe ich keinen Grund.",
+  "objection": "Noch ein Abo für etwas, das mein Coach schon abdeckt. Und ich bezweifle, dass eine App aus Strava-Daten meine Kalorien für Marathon-Blöcke genauer trifft als jemand, der mich kennt.",
+  "would_change_my_mind": "Wenn mein Coach die App selbst nutzt oder empfiehlt und die Pläne direkt mit meinem Trainingsplan synchronisiert, sodass ich mir das Abstimmen spare.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 14
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich tracke seit Jahren mit MacroFactor, das passt meine Ziele schon dynamisch an, und unter der Woche esse ich mittags in der Kantine, da nützt mir ein Tagesplan mit Rezepten wenig. Den Gratis-Teil schau ich mir vielleicht an, aber für Premium sehe ich keinen Grund zu wechseln.",
+  "objection": "Funktioniert der Garmin-Sync wirklich sauber mit meinem HYROX- und Triathlon-Plan, oder schätzt das einfach Kalorien aus der Uhr, die eh ungenau sind? Und ohne schnelles Logging von Kantinen-Essen ist es für meinen Alltag nur halb brauchbar.",
+  "would_change_my_mind": "Wenn Fiber mein MacroFactor komplett ersetzen könnte: schnelles Logging inkl. Schweizer Produkte und Kantinen-Menüs, plus Kohlenhydrat-Periodisierung direkt aus meinem geplanten Training (nicht nur aus vergangenen Aktivitäten).",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

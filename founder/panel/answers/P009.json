@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Ich koche gern und hasse Kalorienzählen, also ist ein Plan, der sich automatisch an meine Garmin-Trainingstage anpasst, genau das, was mir für HYROX fehlt. Ich starte die 14 Tage gratis und nehme danach das Jahresabo für 79 Franken, aber nur, wenn die Rezepte taugen.",
+  "objection": "Gibt es genug gute Rezepte für meine Ernährungsform, oder sehe ich nach zwei Wochen immer dieselben fünf Gerichte? Meine Instagram-Sammlung ist gratis und abwechslungsreicher.",
+  "would_change_my_mind": "Wenn ich im Test merke, dass sich die Rezepte wiederholen oder ich meine eigenen gespeicherten Rezepte nicht in den Plan einbauen kann, kündige ich vor Ablauf der Testphase.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

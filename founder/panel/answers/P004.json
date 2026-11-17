@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich esse mittags in der Kantine und abends oft unterwegs, ich koche nicht nach Rezept – ein Tagesplan mit Rezepten und Portionen passt einfach nicht zu meinem Alltag. Die Garmin-Anbindung finde ich spannend, aber dafür allein zahle ich nichts.",
+  "objection": "Ein Essensplan mit Rezepten nützt mir nichts, wenn ich gar nicht selber koche. Und ob die Kalorienberechnung aus Garmin-Daten für HYROX-Training wirklich stimmt, glaube ich erst, wenn Leute aus meinem Laufclub es gut finden.",
+  "would_change_my_mind": "Wenn Fiber mir zeigen würde, was ich in der Kantine oder unterwegs (Coop, Migros to go) konkret wählen soll, statt Rezepte – und wenn ein paar Leute im Laufclub gute Erfahrungen damit hätten.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

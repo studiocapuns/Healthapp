@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich logge seit Jahren meine Makros und meine App passt die Ziele schon an mein Gewicht und Training an. Einen fixen Tagesplan mit Rezepten brauche ich nicht, ich esse, was ich mag, und tracke es einfach.",
+  "objection": "Nirgends steht, dass Fiber genauer ist als meine jetzige App. Eine Schweizer Datenbank klingt gut, aber kann ich damit überhaupt schnell loggen, Barcodes scannen, und was passiert mit meinen jahrelangen Daten, wenn ich wechsle?",
+  "would_change_my_mind": "Ein direkter Vergleich, der zeigt, dass Fiber bei Schweizer Produkten aus Migros und Coop deutlich genauere Werte liefert, plus ein Import meiner bisherigen Logs.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 9,
+  "price_too_expensive": 14
+}

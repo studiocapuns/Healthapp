@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "values",
+  "reason": "Das Erste, was ich lese, ist 'Kalorien- und Makroziel' – genau das Zählen und Kontrollieren, das ich nicht in meinem Leben will. Ein Plan, der zu vegetarisch und laktosefrei passt, wäre zwar wirklich nützlich, aber nicht, wenn ich dafür wieder Portionen abwiegen und Zahlen jagen muss.",
+  "objection": "Ich fürchte, das ist am Ende doch eine Kalorienzähl-App mit hübscheren Rezepten, und ich lande wieder im zwanghaften Tracken. Ausserdem: Ob die Rezepte für vegetarisch plus laktosefrei wirklich alltagstauglich sind und mit dem gehen, was ich abends schnell bei Migros oder Coop kriege, glaube ich erst, wenn ich es sehe.",
+  "would_change_my_mind": "Ein Modus ganz ohne Zahlen: einfach 'heute ist langer Lauf, iss das' mit vegetarischen, laktosefreien Rezepten und einer Einkaufsliste nach Migros/Coop-Sortiment, ohne dass ich je eine Kalorie sehe.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

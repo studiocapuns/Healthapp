@@ -1,0 +1,13 @@
+{
+  "id": "P033",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich esse mittags in der Kantine und abends oft unterwegs, ein Tagesplan mit Rezepten und Portionen passt schlicht nicht zu meinem Alltag. Die Tagesziele aus der Gratisversion würde ich mir vielleicht anschauen, aber für Premium zahle ich nicht.",
+  "objection": "Was nützt mir ein Essensplan mit Rezepten, wenn ich nicht nach Rezept koche? Und eine neue App ohne Bewertungen und ohne dass jemand im Laufclub sie kennt, ist mir zu unsicher.",
+  "would_change_my_mind": "Wenn die App mir zeigt, was ich in der Kantine oder beim Take-away wählen soll, statt Rezepte vorzuschlagen, und ein paar Leute aus dem Laufclub gute Erfahrungen damit gemacht haben.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

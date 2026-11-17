@@ -1,0 +1,13 @@
+{
+  "id": "P040",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Unter der Woche esse ich mittags in der Kantine und abends oft unterwegs, ich koche einfach nicht nach Rezept. Ein Tagesplan mit Rezepten und Portionen bringt mir da wenig, auch wenn die vegetarische und laktosefreie Anpassung gut klingt. Vielleicht teste ich die 14 Tage gratis, aber bezahlen würde ich danach nicht.",
+  "objection": "Das ganze Premium dreht sich um Rezepte und Einkaufsliste, mein Alltag aber um Kantine und Take-away. Ich glaube nicht, dass ich den Plan länger als eine Woche durchziehe.",
+  "would_change_my_mind": "Wenn Fiber mir sagen würde, was ich in der Kantine oder beim Take-away wählen soll, damit es vegetarisch zu meinem Trainingstag passt, statt mir Rezepte zu geben.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

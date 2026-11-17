@@ -1,0 +1,105 @@
+{
+ "n": 100,
+ "seed": 190362,
+ "customer": {
+  "business": "Fiber – Ernährungs-App für Menschen, die trainieren (Schweiz)",
+  "target": "Erwachsene in der Deutschschweiz, 25 bis 45, die 3–6× pro Woche trainieren, eine Sportuhr oder Lauf-App nutzen und ein konkretes Ziel haben (Rennen, Fettabbau ohne Muskelverlust, Muskelaufbau)",
+  "where": "Deutschschweiz (Zürich, Bern, Basel, Luzern, St. Gallen), App Store / Google Play",
+  "age": [
+   25,
+   45
+  ],
+  "segments": [
+   {
+    "name": "Läufer/in mit Rennziel (10 km bis Marathon)",
+    "share": 0.35,
+    "income": [
+     65000,
+     140000
+    ]
+   },
+   {
+    "name": "Fitness/Kraft mit Ziel Fettabbau oder Muskelaufbau",
+    "share": 0.3,
+    "income": [
+     55000,
+     120000
+    ]
+   },
+   {
+    "name": "Hybrid/Triathlon/HYROX-Athlet/in",
+    "share": 0.2,
+    "income": [
+     80000,
+     170000
+    ]
+   },
+   {
+    "name": "Wiedereinsteiger/in, trainiert für Gesundheit und Gewicht",
+    "share": 0.15,
+    "income": [
+     50000,
+     110000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Tracker-Profi",
+    "share": 0.18,
+    "how": "Loggt seit Jahren mit MyFitnessPal, YAZIO oder MacroFactor und kennt seine Makros."
+   },
+   {
+    "name": "Daten-Nerd mit Uhr",
+    "share": 0.18,
+    "how": "Lebt in Garmin Connect und Strava, will alles automatisch verknüpft."
+   },
+   {
+    "name": "Bequem und gratis",
+    "share": 0.16,
+    "how": "Nutzt nur Gratis-Apps, kündigt Abos nach dem Probemonat."
+   },
+   {
+    "name": "Rezept-Sammler/in",
+    "share": 0.14,
+    "how": "Kocht gern, speichert Rezepte von Instagram, hasst Kalorienzählen."
+   },
+   {
+    "name": "Skeptisch, liest Bewertungen",
+    "share": 0.12,
+    "how": "Prüft App-Store-Bewertungen und fragt im Laufclub nach, bevor er/sie zahlt."
+   },
+   {
+    "name": "Hat schon Coach oder Ernährungsberatung",
+    "share": 0.1,
+    "how": "Bekommt Ernährungstipps vom Trainer oder einer Fachperson."
+   },
+   {
+    "name": "Allergie oder Ernährungsform",
+    "share": 0.12,
+    "how": "Vegetarisch, vegan, laktose- oder glutenfrei; findet selten passende Pläne."
+   }
+  ],
+  "objections": [
+   "Ich habe schon eine Gratis-App (MyFitnessPal, YAZIO) oder Garmin, warum noch eine?",
+   "Ein weiteres Abo – CHF 9.90 im Monat summiert sich",
+   "Ich koche nicht nach Rezept, ich esse in der Kantine oder unterwegs",
+   "Stimmt das wirklich genauer als bei den anderen Apps?",
+   "Kalorienzählen ist mir zu mühsam und zu zwanghaft",
+   "Funktioniert das mit meiner Uhr und meinem Trainingsplan wirklich?",
+   "Gibt es genug Rezepte für meine Ernährungsform?",
+   "Eine neue App ohne Bewertungen, wer steckt dahinter?"
+  ],
+  "habits": [
+   "du läufst zweimal pro Woche mit einem Laufclub am Zürichsee",
+   "du isst unter der Woche mittags in der Firmenkantine",
+   "du hast eine Garmin Forerunner und schaust jeden Morgen die Body Battery",
+   "du kaufst bei Migros und Coop ein, meistens nach der Arbeit",
+   "du bereitest dich auf den Greifenseelauf oder den Zürich Marathon vor",
+   "du trainierst morgens vor der Arbeit im Fitnesscenter",
+   "du nutzt Runna oder einen Trainingsplan aus dem Internet",
+   "du kochst am Sonntag für die Woche vor"
+  ]
+ },
+ "pitch": "Fiber ist eine Ernährungs-App (iPhone, später Android) für Menschen, die trainieren.\nDu verbindest Strava, Garmin oder Apple Health. Fiber berechnet daraus dein tägliches Kalorien- und Makroziel und passt es an Trainingstage an.\nJeden Tag bekommst du einen Essensplan mit Rezepten und Portionsgrössen, dazu Tipps, was du vor und nach deinem Training isst – angepasst an Ernährungsform und Allergien.\nDie Nährwerte werden aus der Schweizer Nährwertdatenbank des Bundes berechnet, die Inhalte werden von einer Ernährungsberaterin SVDE geprüft. Jede Empfehlung zeigt ihre Quelle.\nGratis: Tagesziele, Rezepte zum Stöbern, Wissensartikel. Fiber Premium (Tagesplan mit Portionen, Training-Sync, Zutatentausch, Einkaufsliste, Nährstoff-Check): CHF 9.90 pro Monat oder CHF 79 pro Jahr, die ersten 14 Tage gratis."
+}

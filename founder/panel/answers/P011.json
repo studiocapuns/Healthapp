@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Als Vegetarier finde ich kaum Pläne, die zu meinem HYROX-Training passen, und wenn Fiber das aus meinen Garmin-Daten macht, ohne dass ich jedes Gramm eintippen muss, teste ich die 14 Tage. Wenn die Pläne nach zwei Wochen wirklich vegetarisch und alltagstauglich sind, zahle ich die CHF 9.90 für einen Monat, aufs Jahresabo lasse ich mich erst später ein.",
+  "objection": "Ich habe Angst, dass es am Ende doch wieder Kalorienzählen durch die Hintertür ist: starre Portionen in Gramm, die ich abwägen soll, und vegetarische Rezepte, die nur Fleischgerichte mit Tofu statt Poulet sind.",
+  "would_change_my_mind": "Wenn ich in der Testphase merke, dass ich trotzdem alles abwiegen und eintragen muss oder die vegetarischen Pläne zu wenig Protein haben, kündige ich vor dem ersten Zahltag.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

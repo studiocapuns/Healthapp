@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich logge seit Jahren mit MacroFactor, das passt mein Ziel schon an mein Gewicht und meinen Verbrauch an. Einen fixen Essensplan mit Rezepten brauche ich nicht, ich esse, was ich esse, und tracke es. Den Gratis-Test würde ich vielleicht anklicken, aber nach 14 Tagen kündigen.",
+  "objection": "Woher weiss Fiber besser als MacroFactor, was ich an einem Trainingstag brauche? Kalorien aus Strava oder der Uhr sind notorisch ungenau. Und eine Schweizer Datenbank nützt mir wenig, wenn ich nicht schnell einen Barcode scannen und meine eigenen Mahlzeiten loggen kann.",
+  "would_change_my_mind": "Ein unabhängiger Vergleich oder Beleg, dass die Ziele genauer sind als bei MacroFactor, plus ein konkreter Fueling-Plan für die Marathon-Vorbereitung (Long Runs, Carb-Loading, Gels am Renntag), den ich sonst nirgends bekomme.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 18
+}

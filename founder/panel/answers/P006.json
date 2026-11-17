@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich zahle schon für MacroFactor, kenne meine Makros und Runna plant mein Training. Ein fixer Essensplan mit Rezepten passt nicht zu meinem Alltag, ich esse, was ich esse, und will nicht noch ein Abo für etwas, das ich im Griff habe.",
+  "objection": "Was macht Fiber besser als MacroFactor, das sich schon an mein Gewicht und meine Aufnahme anpasst? Ein Tagesplan mit Portionen klingt nach noch mehr Kontrolle und Aufwand, nicht weniger.",
+  "would_change_my_mind": "Wenn es mir in der Marathonvorbereitung konkret sagt, wie viel Kohlenhydrate ich vor und nach langen Läufen brauche, automatisch aus Runna/Garmin, ohne dass ich etwas loggen muss, und ich dafür MacroFactor kündigen könnte.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}
