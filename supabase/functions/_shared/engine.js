@@ -321,8 +321,8 @@
       const remainingShare = slots.slice(i).reduce((a, s2) => a + shares[s2], 0);
       const kcalGoal = (tg.kcal - acc.kcal) * shares[slot] / remainingShare;
       const protGoal = (tg.protein - acc.protein) * shares[slot] / remainingShare;
-      let cands = fixed[slot] ? recipes.filter(r => r.id === fixed[slot]) : recipes.filter(r => r.meals.includes(slot));
-      const scored = cands.map(r => {
+      const pool = fixed[slot] ? recipes.filter(r => r.id === fixed[slot]) : recipes.filter(r => r.meals.includes(slot));
+      const score = cands => cands.map(r => {
         const an = analyzeRecipe(db, r);
         if (!fixed[slot] && (!fitsProfile(an, r, p).ok || used.has(r.id))) return null;
         const timing = want[slot] && !timingFit(an.per)[want[slot]] ? 0.35 : 0;
@@ -332,8 +332,11 @@
         const jitter = (hash(seed + slot + r.id) % 100) / 1000; // Vielfalt, ohne Präzision zu opfern
         return { r, an, f, score: kErr + 0.8 * pErr + timing + jitter };
       }).filter(Boolean).sort((x, y) => x.score - y.score);
+      let scored = score(pool);
+      // Kein passendes Rezept für diese Mahlzeit (z. B. vegan + mehrere Allergien): jedes passende Rezept zulassen
+      if (!scored.length && !fixed[slot]) scored = score(recipes.filter(r => !r.meals.includes(slot))).map(x => ({ ...x, fallback: true }));
       const best = scored[0];
-      if (best) { used.add(best.r.id); plan[slot] = { id: best.r.id, timing: want[slot], factor: best.f, kcal: best.an.per.kcal * best.f, protein: best.an.per.protein * best.f, per: best.an.per }; acc.kcal += plan[slot].kcal; acc.protein += plan[slot].protein; }
+      if (best) { used.add(best.r.id); plan[slot] = { id: best.r.id, timing: want[slot], fallback: !!best.fallback, factor: best.f, kcal: best.an.per.kcal * best.f, protein: best.an.per.protein * best.f, per: best.an.per }; acc.kcal += plan[slot].kcal; acc.protein += plan[slot].protein; }
       else plan[slot] = null;
     });
     return { plan, total: acc, deviation: { kcal: Math.round(acc.kcal - tg.kcal), protein: Math.round(acc.protein - tg.protein) } };

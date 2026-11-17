@@ -35,3 +35,11 @@ out.push('insert into articles (slug,title,summary,body_md,category,read_min,sou
 out.push('commit;');
 fs.writeFileSync(path.join(root, 'supabase/seed.sql'), out.join('\n\n') + '\n');
 console.log('seed.sql:', foods.length, 'Lebensmittel,', Object.keys(INGREDIENTS).length, 'Zutaten,', RECIPES.length, 'Rezepte,', ARTICLES.length, 'Artikel');
+
+// Kompakte Lebensmitteldatei für den Web-Prototyp (nur in Zutaten verwendete Einträge)
+const used = new Set(Object.values(INGREDIENTS).map(i => i.f));
+const appFoods = [...ch.foods, ...us.foods].filter(f => used.has(f.id)).map(f => ({ id: f.id, name: f.name, n: f.n, est: f.est }));
+fs.writeFileSync(path.join(root, 'data/foods-app.js'),
+  '/* Automatisch erzeugt von scripts/build-seed.js. Quelle: Schweizer Nährwertdatenbank (BLV) und USDA FoodData Central */\n' +
+  'window.FIBER_FOODS = ' + JSON.stringify(appFoods) + ';\n');
+console.log('foods-app.js:', appFoods.length, 'Lebensmittel');

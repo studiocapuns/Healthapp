@@ -1,15 +1,27 @@
-# Fiber – Health App Prototyp
+# Fiber
 
-Klickbarer Prototyp einer persönlichen Ernährungs- und Rezept-App. Einfach `index.html` im Browser öffnen (am besten in der Handy-Ansicht).
+Personalisierte Ernährung für Menschen, die trainieren: präzise Ziele, Rezepte aus offiziellen Nährwertdaten, Essens-Timing rund ums Training und Wissen mit Quellen.
 
-## Enthalten
-- **Onboarding**: Ziel (Abnehmen, Muskelaufbau, Zunehmen, Halten & Stabilisieren, Ausdauer) und Tempo, Körperdaten (inkl. Körperfett, BMI-Schätzung), Alltag & Training, Ernährungsform, Allergien, Garmin-Verbindung, berechneter Plan (Mifflin-St Jeor, Makros, Zieldatum)
-- **Heute (Dashboard)**: Kalorien-Ring mit Trainingsbonus, Makros, Essens-Tipps zum heutigen Training, Mahlzeiten abhaken, freie Einträge, Wasser, Planfortschritt, Updates
-- **Rezepte**: nach Diät und Allergien gefiltert, Filter (Pre-/Post-Workout, High Protein …), eigene Sammlung, eigene Rezepte, Portionen, "Warum es zu dir passt", einplanen oder als gegessen erfassen
-- **Kalender**: Wochenansicht, Trainings hinzufügen, Garmin-Import (simuliert), personalisiertes Essens-Timing vor/während/nach dem Training, Essensplan, Einkaufsliste
-- **Fortschritt**: Gewichtsverlauf mit Ziel, Kalorien der letzten 7 Tage, Proteinziel, Körperfett, Meilensteine
+**Prototyp:** `index.html` im Browser öffnen (Handy-Ansicht). Dev-Stresstest: `index.html?data=worst`, `?data=empty`, `?data=one`.
 
-Alle Daten sind Demo-Daten und werden nur lokal im Browser gespeichert. Die Garmin-Verbindung ist simuliert.
+## Was drin ist
+- **Nährwert-Engine** (`core/engine.js`): Mifflin-St Jeor / Katch-McArdle, PAL + MET-basierter Trainingsverbrauch, Sicherheitsregeln, Makro- und Mikroziele (D-A-CH, EFSA, WHO, ISSN, ACSM), Rezeptanalyse, EU-Kennzeichnungen, Alternativen, Tagesplaner mit Portionsfaktoren.
+- **Offizielle Daten** (`data/`): Schweizer Nährwertdatenbank (BLV, 1216 Lebensmittel) + USDA-Ergänzungen; 134 Zutaten mit 14 Hauptallergenen; 58 Rezepte in Gramm; 15 Wissensartikel mit Quellen.
+- **Backend** (`supabase/`): Postgres-Schema mit Row Level Security, berechnete Nährwert-Views, Seed, Edge Functions für Tagesplan, Strava, Garmin und Apple Health.
+- **Prototyp** (`index.html`): Onboarding mit Sicherheitsfragen, Dashboard, Rezepte mit Nährwerttabelle, Mikronährstoffen und Alternativen, Kalender mit Garmin/Strava/Apple Health/Runna (simuliert), Wissensbereich, Fortschritt.
+
+Details: [docs/ARCHITEKTUR.md](docs/ARCHITEKTUR.md)
+
+## Entwicklung
+```bash
+npm install
+npm test              # 13 Tests: Formeln, Datenintegrität, Allergene, Planer
+npm run build:data    # seed.sql, foods-app.js, Engine-Kopie für Edge Functions
+npm run validate:db   # Schema + Seed + RLS in Postgres (PGlite) prüfen
+```
 
 ## Bilder
-Die Food-Fotos in `img/` stammen von [Unsplash](https://unsplash.com) und stehen unter der Unsplash-Lizenz (frei nutzbar, auch kommerziell). Vor dem Launch sollten sie durch eigene Fotos oder lizenzierte Bilder aus der Rezept-Datenbank ersetzt werden.
+Food-Fotos in `img/` von [Unsplash](https://unsplash.com) (Unsplash-Lizenz), Zuordnung in `img/CREDITS.txt`. Vor dem Launch durch eigene oder lizenzierte Fotos ersetzen.
+
+## Wichtig vor dem Launch
+Rezepte und Wissensartikel müssen von einer Ernährungsfachperson (SVDE) geprüft werden. Fiber richtet sich an gesunde Erwachsene und ist kein Medizinprodukt.
