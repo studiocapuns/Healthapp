@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich habe schon eine Ernährungsberatung und mein Trainer gibt mir Tipps, also zahle ich nicht noch zusätzlich für eine App, die mir dasselbe sagt. Die Garmin-Anbindung ist nett, aber die Gratisversion mit Tagesziel würde mir wahrscheinlich reichen.",
+  "objection": "Gibt es wirklich genug Rezepte für meine Ernährungsform, oder sind es nach zwei Wochen immer die gleichen fünf Gerichte? Und widerspricht der Plan vielleicht dem, was meine Beraterin mir sagt?",
+  "would_change_my_mind": "Wenn meine Ernährungsberaterin die App selbst empfiehlt oder damit arbeitet, sodass sie meine Pläne direkt anpassen kann, statt dass ich zwei Quellen habe.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

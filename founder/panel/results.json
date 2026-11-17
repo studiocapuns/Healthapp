@@ -1,0 +1,291 @@
+{
+ "business": "Fiber – Ernährungs-App für Menschen, die trainieren (Schweiz)",
+ "seed": 190362,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 9,
+ "passes": 91,
+ "buy_rate": 0.09,
+ "by_segment": [
+  [
+   "Hybrid/Triathlon/HYROX-Athlet/in",
+   20,
+   0.25
+  ],
+  [
+   "Läufer/in mit Rennziel (10 km bis Marathon)",
+   35,
+   0.08571428571428572
+  ],
+  [
+   "Fitness/Kraft mit Ziel Fettabbau oder Muskelaufbau",
+   30,
+   0.03333333333333333
+  ],
+  [
+   "Wiedereinsteiger/in, trainiert für Gesundheit und Gewicht",
+   15,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Allergie oder Ernährungsform",
+   12,
+   0.4166666666666667
+  ],
+  [
+   "Rezept-Sammler/in",
+   14,
+   0.14285714285714285
+  ],
+  [
+   "Daten-Nerd mit Uhr",
+   18,
+   0.1111111111111111
+  ],
+  [
+   "Skeptisch, liest Bewertungen",
+   12,
+   0.0
+  ],
+  [
+   "Tracker-Profi",
+   18,
+   0.0
+  ],
+  [
+   "Bequem und gratis",
+   16,
+   0.0
+  ],
+  [
+   "Hat schon Coach oder Ernährungsberatung",
+   10,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$104,000 and up",
+   34,
+   0.17647058823529413
+  ],
+  [
+   "$82,000 to $104,000",
+   33,
+   0.09090909090909091
+  ],
+  [
+   "under $82,000",
+   33,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   44,
+   [
+    "Ich esse mittags in der Kantine und abends oft unterwegs, ich koche nicht nach Rezept – ein Tagesplan mit Rezepten und Portionen passt einfach nicht zu meinem Alltag. Die Garmin-Anbindung finde ich spannend, aber dafür allein zahle ich nichts.",
+    "Ich zahle schon für MacroFactor, kenne meine Makros und Runna plant mein Training. Ein fixer Essensplan mit Rezepten passt nicht zu meinem Alltag, ich esse, was ich esse, und will nicht noch ein Abo für etwas, das ich im Griff habe."
+   ],
+   [
+    "P004",
+    "P006"
+   ]
+  ],
+  [
+   "need",
+   20,
+   [
+    "Ich esse unter der Woche mittags in der Kantine, also nützt mir ein Tagesplan mit Rezepten und Portionen nur für Frühstück und Abendessen. Kalorien und Makros zähle ich schon gratis mit YAZIO und Garmin. Vielleicht teste ich die 14 Tage, aber zahlen würde ich danach eher nicht.",
+    "Ich tracke schon alles mit Garmin und MyFitnessPal, und mein Garmin sagt mir sowieso, wie viel ich verbrannt habe. Einen fixen Essensplan mit Rezepten koche ich morgens vor dem Gym eh nicht nach, ich esse jeden Tag ungefähr dasselbe."
+   ],
+   [
+    "P002",
+    "P005"
+   ]
+  ],
+  [
+   "trust",
+   13,
+   [
+    "Das Geld ist nicht das Problem, aber die App ist neu, hat noch keine Bewertungen und niemand in meinem Laufclub nutzt sie. Ich lade sie vielleicht gratis runter, aber für Premium zahle ich erst, wenn andere Athleten bestätigen, dass die Pläne für HYROX und Ausdauerblöcke wirklich taugen.",
+    "Ich würde mir vielleicht die Gratis-Version mit Garmin-Anbindung anschauen, aber für ein Abo bei einer neuen App ohne Bewertungen und ohne Namen dahinter zahle ich nicht. Ausserdem koche ich lieber meine eigenen gespeicherten Rezepte, statt einen fixen Tagesplan abzuarbeiten."
+   ],
+   [
+    "P010",
+    "P012"
+   ]
+  ],
+  [
+   "price",
+   8,
+   [
+    "Ich würde vielleicht die 14 Tage gratis testen und dann vor dem ersten Abbuchen kündigen, wie bei jedem Abo. Für zwei Clubläufe pro Woche reichen mir die Gratis-Tagesziele und die Rezepte, einen Essensplan zahle ich dafür nicht.",
+    "Ich laufe zweimal pro Woche und will vor allem etwas Gewicht verlieren, dafür reichen mir die Gratis-Tagesziele und die Rezepte zum Stöbern. Den 14-Tage-Test würde ich vielleicht machen, aber ich kündige vor Ablauf, wie bei jedem Abo."
+   ],
+   [
+    "P014",
+    "P020"
+   ]
+  ],
+  [
+   "convenience",
+   3,
+   [
+    "Der Garmin-Sync klingt gut, aber unter der Woche esse ich mittags in der Kantine, da nützt mir ein Tagesplan mit Rezepten und Portionsgrössen wenig. Am Ende wäre es doch wieder Kalorienzählen, und darauf habe ich keine Lust.",
+    "Die Garmin-Verknüpfung finde ich cool und die 14 Tage würde ich vielleicht testen, aber unter der Woche esse ich mittags in der Kantine, also passt ein Tagesplan mit Rezepten und Portionen sowieso nicht. Am Ende fühlt sich das wieder nach Kalorienzählen an, und darauf habe ich keine Lust."
+   ],
+   [
+    "P019",
+    "P028"
+   ]
+  ],
+  [
+   "quality",
+   2,
+   [
+    "Ich würde die 14 Tage gratis testen, aber ich zahle nur, wenn der Garmin-Sync wirklich tief geht und nicht nur verbrannte Kalorien draufrechnet. Und ich sehe nirgends, dass ich mein Essen tracken kann, ein fixer Essensplan passt schlecht zu meinem Alltag.",
+    "Ich würde die 14 Tage gratis testen, aber zahlen erst, wenn ich sehe, dass es genug vegetarische, laktosefreie Rezepte mit genug Protein gibt. Zu oft bekomme ich bei solchen Apps immer dieselben drei Tofu-Gerichte, und darum zahle ich im ersten Monat wahrscheinlich noch nichts."
+   ],
+   [
+    "P089",
+    "P099"
+   ]
+  ],
+  [
+   "values",
+   1,
+   [
+    "Das Erste, was ich lese, ist 'Kalorien- und Makroziel' – genau das Zählen und Kontrollieren, das ich nicht in meinem Leben will. Ein Plan, der zu vegetarisch und laktosefrei passt, wäre zwar wirklich nützlich, aber nicht, wenn ich dafür wieder Portionen abwiegen und Zahlen jagen muss."
+   ],
+   [
+    "P003"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   7,
+   [
+    "Ich hasse Kalorienzählen, aber für den Marathonblock will ich an harten Tagen genug essen. Wenn Fiber aus Garmin meinen Bedarf rechnet und mir einfach Rezepte mit Portionen gibt, teste ich die 14 Tage und nehme danach das Jahresabo für 79 Franken, das tut mir nicht weh.",
+    "Ich koche gern und hasse Kalorienzählen, also ist ein Plan, der sich automatisch an meine Garmin-Trainingstage anpasst, genau das, was mir für HYROX fehlt. Ich starte die 14 Tage gratis und nehme danach das Jahresabo für 79 Franken, aber nur, wenn die Rezepte taugen."
+   ],
+   [
+    "P001",
+    "P009"
+   ]
+  ],
+  [
+   "convenience",
+   2,
+   [
+    "Wenn Fiber wirklich meine Garmin-Daten zieht und das Makroziel an Trainingstagen automatisch hochschraubt, spart mir das das tägliche Rechnen. Ich teste die 14 Tage, und wenn der Sync sauber läuft, nehme ich das Jahresabo für CHF 79, das tut mir nicht weh.",
+    "Garmin- und Strava-Sync, der mein Kalorienziel an Lauf- und Krafttage anpasst, ist genau das, was ich sonst in Tabellen selber rechne. Ich mache die 14 Tage Test und wenn es sauber synchronisiert, nehme ich erst mal das Monatsabo, nicht gleich das Jahr."
+   ],
+   [
+    "P063",
+    "P083"
+   ]
+  ]
+ ],
+ "flip": [
+  "Wenn ich mein Kantinenmenü eintragen könnte und Fiber den Rest des Tages darum herum plant, und wenn Leute aus meinem Laufclub sagen, dass es ihnen bei Fettabbau ohne Muskelverlust wirklich geholfen hat.",
+  "Ein Modus ganz ohne Zahlen: einfach 'heute ist langer Lauf, iss das' mit vegetarischen, laktosefreien Rezepten und einer Einkaufsliste nach Migros/Coop-Sortiment, ohne dass ich je eine Kalorie sehe.",
+  "Wenn Fiber mir zeigen würde, was ich in der Kantine oder unterwegs (Coop, Migros to go) konkret wählen soll, statt Rezepte – und wenn ein paar Leute im Laufclub gute Erfahrungen damit hätten.",
+  "Wenn Fiber nachweislich mein MyFitnessPal ersetzt, also Logging per Barcode mit Schweizer Produkten plus automatischer Garmin-Sync der tatsächlichen Trainingslast, und das Ziel spürbar besser anpasst als eine fixe Rechnung, würde ich nach dem Gratis-Test das Jahresabo nehmen.",
+  "Wenn es mir in der Marathonvorbereitung konkret sagt, wie viel Kohlenhydrate ich vor und nach langen Läufen brauche, automatisch aus Runna/Garmin, ohne dass ich etwas loggen muss, und ich dafür MacroFactor kündigen könnte.",
+  "Ein Wochenplan für Meal-Prep: am Sonntag eine Einkaufsliste und 3–4 Gerichte für die ganze Woche, die automatisch auf meinen Trainingsplan bis zum Marathon abgestimmt sind, ohne dass ich etwas tracken muss.",
+  "Wenn es ohne Plan und ohne Abwägen ginge: nur konkrete Fueling-Hinweise vor und nach harten Einheiten und eine Carb-Loading-Anleitung für die Rennwoche, die automatisch aus meinem Garmin-Trainingsplan kommt.",
+  "Gute App-Store-Bewertungen von echten Hybrid- oder HYROX-Athleten und ein, zwei Leute aus dem Laufclub, die nach dem Gratis-Test sagen, dass die Pläne und Einkaufslisten im Alltag funktionieren.",
+  "Gute Bewertungen oder eine Empfehlung von jemandem aus meinem Trainingsumfeld, und dass ich meine eigenen Instagram-Rezepte importieren kann und Fiber mir dazu die Portionen nach Body Battery und Trainingstag berechnet.",
+  "Wenn es mir das tägliche Loggen wirklich abnimmt und mir konkret sagt, wie ich vor dem langen Lauf und am Renntag carbo-loade, und ich meine MacroFactor-Daten mitnehmen kann.",
+  "Wenn der Training-Sync mit Garmin/Strava und die Plan-Anpassung an Lauftage gratis wären, oder ein einmaliger Kauf für meinen Marathonblock (z. B. 12 Wochen) statt eines Abos.",
+  "Echte Bewertungen von anderen Läufern plus ein Wochenplan, der sich als Meal-Prep für Sonntag kochen lässt und meine Long-Run-Tage automatisch aus dem Garmin-Trainingsplan zieht – dann würde ich das Jahresabo nehmen.",
+  "Wenn ich meine Daten aus MyFitnessPal oder MacroFactor importieren könnte und Fiber mit Garmin-Trainingsdaten spürbar bessere Ziele an Trainingstagen liefert als mein jetziger Tracker, belegt durch echte Bewertungen von Leuten wie mir.",
+  "Wenn mein Coach sie selbst empfiehlt oder sie mit ihm teilen kann, und es echte Bewertungen von Läufern gibt, die damit ihre Rennvorbereitung gemacht haben.",
+  "Wenn der Training-Sync und ein Wochen-Meal-Prep-Plan mit Einkaufsliste für Sonntag in der Gratis-Version wären oder es einen einmaligen Kaufpreis statt Abo gäbe.",
+  "Wenn Fiber ohne Eintragen auskommt und mir einfach sagt, welches Kantinenmenü bzw. wie viel davon an einem Trainingstag passt, und den Rest automatisch aus Garmin zieht.",
+  "Wenn der Tagesplan mit Einkaufsliste gratis wäre oder ich über meine Krankenkasse oder den Laufclub einen Gratiszugang bekäme.",
+  "Wenn mein Trainer sie mir empfiehlt oder mit ihr arbeitet, und wenn sie einen Wochenplan für Meal-Prep mit Einkaufsliste macht, der auf meinen Trainingsplan für das Rennen abgestimmt ist.",
+  "Wenn mein Coach die Pläne sehen und anpassen könnte und Fiber sich gezielt auf Rennvorbereitung einstellt (Carb-Loading vor dem Marathon, Verpflegung im Lauf), statt allgemeine Tagespläne zu machen.",
+  "Wenn der Tagesplan mit Training-Sync gratis wäre oder es eine Einmalzahlung um die 20 Franken gäbe statt Abo.",
+  "Ein direkter Vergleich, der zeigt, dass Fiber bei Schweizer Produkten aus Migros und Coop deutlich genauere Werte liefert, plus ein Import meiner bisherigen Logs.",
+  "Wenn der Training-Sync mit Garmin und das Tankplan-Thema vor langen Läufen und Rennen gratis wären, würde ich die App nutzen. Bezahlen würde ich höchstens einmalig für einen Rennvorbereitungsplan.",
+  "Wenn ich meine eigenen Rezepte (z.B. von Instagram) importieren könnte und Fiber mir die Portionen dafür passend zu meinem Trainingstag ausrechnet, ohne dass ich etwas zählen muss.",
+  "Gute Bewertungen im App Store (4.5+ mit echten Erfahrungsberichten von Läufern/Kraftsportlern) oder ein Kollege aus dem Laufclub, der es seit ein paar Monaten nutzt und Resultate hat.",
+  "Wenn es ohne Abwägen und Eintippen funktioniert und mir einfach sagt, was ich in der Kantine wählen und am Abend dazu essen soll, passend zu meinem Training an dem Tag.",
+  "Wenn Fiber meinen Runna- bzw. Garmin-Plan wirklich liest und mir für lange Läufe und die Rennwoche konkretes Carb-Loading und Verpflegung vorgibt, und ich meine MacroFactor-Daten importieren könnte – dann würde ich vor dem nächsten Marathon das Jahresabo testen.",
+  "Wenn Fiber mir automatisch sagt, was ich in der Kantine, bei Migros/Coop to go oder im Restaurant wählen soll, passend zu meinem Training an dem Tag, und ich meine MacroFactor-Daten übernehmen könnte.",
+  "Wenn Fiber meinen bestehenden Tracker komplett ersetzen könnte, inklusive schnellem Logging per Barcode mit Schweizer Produkten und Import meiner Historie, sodass ich unter dem Strich ein Abo weniger habe statt eines mehr.",
+  "Ein unabhängiger Vergleich oder Beleg, dass die Ziele genauer sind als bei MacroFactor, plus ein konkreter Fueling-Plan für die Marathon-Vorbereitung (Long Runs, Carb-Loading, Gels am Renntag), den ich sonst nirgends bekomme.",
+  "Wenn die App mir zeigt, was ich in der Kantine oder beim Take-away wählen soll, statt Rezepte vorzuschlagen, und ein paar Leute aus dem Laufclub gute Erfahrungen damit gemacht haben.",
+  "Wenn meine Ernährungsberaterin die App selbst empfehlen und mit mir darin arbeiten würde, sodass sie meine Pläne und Daten dort sieht und die App unsere Betreuung ergänzt statt ersetzt.",
+  "Wenn Premium echtes Food-Logging mit Barcode-Scan für Schweizer Produkte hätte und die Daten zurück zu Garmin Connect synchronisiert, würde ich die 14 Tage testen und dann das Jahresabo nehmen.",
+  "Gute App-Store-Bewertungen von anderen Läufern plus eine Empfehlung aus meinem Laufclub, und eine sichtbare Abstimmung auf meinen Runna-Plan, z. B. Kohlenhydrate vor langen Läufen und Intervallen.",
+  "Wenn Fiber mein MacroFactor komplett ersetzen könnte: schnelles Logging inkl. Schweizer Produkte und Kantinen-Menüs, plus Kohlenhydrat-Periodisierung direkt aus meinem geplanten Training (nicht nur aus vergangenen Aktivitäten).",
+  "Wenn mein Coach die App selbst nutzt oder empfiehlt und die Pläne direkt mit meinem Trainingsplan synchronisiert, sodass ich mir das Abstimmen spare.",
+  "Wenn ich den Plan mit meiner eigenen Beraterin teilen und sie die Ziele darin direkt anpassen könnte, sodass die App ihre Arbeit im Alltag umsetzt statt sie zu ersetzen.",
+  "Wenn Fiber mir sagen würde, was ich in der Kantine oder beim Take-away wählen soll, damit es vegetarisch zu meinem Trainingstag passt, statt mir Rezepte zu geben.",
+  "Wenn zwei, drei Leute aus meinem Laufclub sie ein paar Monate nutzen und sagen, dass die Ziele und Portionen bei ihnen funktioniert haben, plus solide Bewertungen im App Store.",
+  "Wenn mir der Tagesplan im Probemonat vor dem Greifenseelauf spürbar mehr Energie im Training bringt und es genug Rezepte für mich gibt, würde ich vielleicht das Jahresabo zu einem tieferen Preis nehmen.",
+  "Wenn es ohne Abwägen und Tracken ginge, z. B. einfache Faustregeln pro Trainingstag gratis, und ich nach dem Probemonat sichtbar Fett verloren hätte.",
+  "Wenn Fiber mein MyFitnessPal-Log importiert, Nährwerte automatisch zurück in Garmin Connect schreibt und das Kohlenhydrat-Fueling für lange Einheiten und Rennen konkret aus meinen Trainingsdaten plant.",
+  "Wenn es die geplanten Einheiten aus Runna oder dem Garmin-Kalender im Voraus einliest, Kohlenhydrate für lange Läufe und den Renntag plant und meine MacroFactor/MyFitnessPal-Daten importieren kann.",
+  "Ehrliche Erfahrungsberichte von anderen vegetarischen Läufern im Marathonaufbau, zum Beispiel aus meinem Laufclub oder im App Store, oder ein Plan im Gratis-Test, der wirklich vegetarisch durchdacht ist.",
+  "Wenn ich meine eigenen Instagram-Rezepte importieren könnte und Fiber mir einfach die Portionen für Trainingstage ausrechnet, ohne dass ich etwas zählen muss.",
+  "Wenn Fiber einen Wochen-Meal-Prep-Plan mit einer Einkaufsliste für den Sonntag machen würde und mein Logging in MacroFactor oder YAZIO ersetzen könnte, also nicht noch eine App dazu.",
+  "Wenn die Trainingssynchronisation im Probezeitraum wirklich automatisch läuft und mir konkrete Fueling-Empfehlungen für meine langen Läufe und den Renntag gibt, die ich nicht schon kenne, würde ich das Jahresabo für CHF 79 vor dem Zürich Marathon nehmen.",
+  "Wenn Fiber konkret auf meinen Marathon-Trainingsplan eingeht, also Carb-Loading und Verpflegung für lange Läufe und den Renntag automatisch aus Garmin plant und die Daten sauber zurück in Garmin Connect schreibt.",
+  "Wenn ein paar Leute aus dem Laufclub sie nutzen und gute Bewertungen im App Store stehen, würde ich nach dem Gratis-Test das Jahresabo für CHF 79 nehmen, eher noch unter CHF 60.",
+  "Wenn ich in den 14 Tagen merke, dass sich meine langen Läufe spürbar besser anfühlen und der Garmin-Sync mit meinem Trainingsplan wirklich automatisch funktioniert – dann vielleicht das Jahresabo.",
+  "If I could log canteen meals properly and get a side-by-side comparison showing the targets beat MacroFactor's for someone who trains, I'd try the 14 days.",
+  "Ein Wochen-Meal-Prep-Modus mit einer Einkaufsliste für den Sonntag, bei dem mein Coach die Makroziele einstellen oder sehen kann.",
+  "Wenn ich meine eigenen gespeicherten Rezepte importieren könnte und die App mir nur grob sagt, was ich an Trainingstagen anpassen soll, ganz ohne Grammzahlen oder Tracking.",
+  "Wenn ich meine Instagram-Rezepte importieren könnte und Fiber mir daraus einen Wochen-Meal-Prep-Plan mit Portionen und Einkaufsliste für den Sonntag macht, ohne dass ich je eine Kalorie zählen muss.",
+  "Wenn Fiber Barcode-Scan für Migros/Coop-Produkte hätte und Kalorien und Makros automatisch zurück in Garmin Connect schreiben würde, sodass es meine Tracking-App ersetzt statt sie zu ergänzen.",
+  "Wenn zwei, drei Leute aus dem Laufclub oder aus der HYROX-Szene sagen, dass sie damit vor einem Rennen besser gegessen und sich besser gefühlt haben, und die App gute Bewertungen hat.",
+  "Wenn es echte Rennvorbereitung gäbe: Carbo-Loading-Plan für die Tage vor dem Zürich Marathon und Verpflegung unterwegs, berechnet aus meinem Garmin-Trainingsplan, und wenn ich meine MacroFactor-Daten mitnehmen könnte.",
+  "Eine einmalige Zahlung statt Abo, oder wenn ich in den 14 Tagen messbar abnehme ohne mich zu quälen.",
+  "Wenn Fiber mir vor einem Rennen gratis einen konkreten Carbo-Loading- und Renntag-Plan gäbe, der mit meinem Garmin-Trainingsplan synchronisiert ist, würde ich den Probemonat testen, aber wahrscheinlich danach kündigen.",
+  "Wenn Kantinen- oder Restaurantessen direkt im Plan berücksichtigt wird und ich für meine Marathonvorbereitung einen einmaligen Kauf von etwa CHF 20–30 machen kann statt eines Abos.",
+  "Wenn Fiber mein MacroFactor/MyFitnessPal-Log importieren könnte und es einen echten Marathon-Vorbereitungsmodus gäbe (Carb-Loading, Long-Run-Tage), mit guten Bewertungen von anderen Läufer/innen in der Schweiz.",
+  "Wenn der Training-Sync mit Garmin und die angepassten Tagesziele in der Gratisversion wären, oder ein einmaliger Kauf statt Abo für meinen Rennblock.",
+  "Wenn die App mir zeigen würde, was ich in der Kantine, bei Migros-Take-away oder Coop-to-go wählen soll, statt Rezepte zu liefern – oder wenn mein Coach sie mir empfiehlt und die Daten mitsieht.",
+  "Wenn mir der Plan im Probemonat vor einem Rennen spürbar hilft, z. B. bessere Long Runs ohne Einbruch, und Leute aus meinem Laufclub die App empfehlen.",
+  "Wenn es ohne Wägen und Planbefolgen ginge: grobe Faustregeln für meinen Alltag, die sich automatisch nach Garmin-Training und Body Battery richten, und ich sehe im Gewichtsverlauf, dass es wirkt.",
+  "Eine offengelegte Methode, wie aus Garmin-Daten (Pace, Puls, Dauer) das Tagesziel wird, plus ein Vergleich mit gemessenen Werten oder ein Kohlenhydrat-Plan speziell für lange Läufe und Marathon-Vorbereitung.",
+  "Wenn ich meine eigenen gespeicherten Rezepte (z. B. per Link von Instagram) importieren könnte und Fiber mir dann automatisch die Portionen für Trainings- und Ruhetage ausrechnet, ohne dass ich Kalorien zählen muss.",
+  "Wenn Fiber transparent zeigt, wie es den Garmin-Verbrauch korrigiert, und das Ziel über ein paar Wochen an mein Gewicht anpasst, plus eine einfache Lösung für Kantinen-Mittagessen (Foto oder typische Kantinengerichte schätzen).",
+  "Wenn ich meine eigenen gespeicherten Rezepte importieren könnte und Fiber mir daraus einen Wochen-Meal-Prep-Plan mit Einkaufsliste macht, ohne dass ich etwas abwägen oder tracken muss.",
+  "Wenn Fiber mir sagen könnte, welches Kantinen- oder Take-away-Menü (vegetarisch, laktosefrei) heute am besten zu meinem Trainingstag passt und wie ich den Rest des Tages darum herum plane.",
+  "Echte Erfahrungsberichte von Athleten aus der Schweiz oder eine Empfehlung von meinem Coach oder Verein, plus Rezepte, die ich mit Migros- und Coop-Zutaten ohne Abwägen kochen kann.",
+  "Wenn Fiber MacroFactor ganz ersetzen könnte, also schnelles Logging mit Barcode und eine Lösung für Kantinenessen, und ich meine bisherigen Daten importieren könnte.",
+  "Wenn meine Ernährungsberaterin die App selbst empfiehlt oder damit arbeitet, sodass sie meine Pläne direkt anpassen kann, statt dass ich zwei Quellen habe.",
+  "Wenn meine Coachin Fiber selbst nutzen und meine Pläne darin einstellen könnte, sodass es ihr Werkzeug wird statt Konkurrenz.",
+  "Wenn es ohne Zahlen ginge: einfach gute Wochenend-Rezepte, die zu meinem Lauftag passen, plus konkrete Tipps, was ich in der Kantine wählen soll, ohne dass ich etwas tracken muss.",
+  "Gute App-Store-Bewertungen von echten Läufern und eine Empfehlung von jemandem aus meinem Laufclub, der damit vor einem Rennen abgenommen hat, ohne an Leistung zu verlieren.",
+  "Echte Bewertungen von Leuten mit ähnlicher Ernährungsform, ein sichtbares Team mit Namen inklusive der SVDE-Ernährungsberaterin, und dass ich im Gratistest sehe, dass die Pläne wirklich vegetarisch und laktosefrei durchdacht sind.",
+  "Wenn ich im Probemonat vor einem Rennen merke, dass mein Long-Run-Fueling und die Erholung spürbar besser werden, also einen echten Leistungsunterschied sehe.",
+  "Wenn ich einfach meine gespeicherten Lieblingsrezepte reinladen könnte und Fiber mir nur sagt, welches davon zu meinem Lauftraining passt, ganz ohne Zahlen und Tracking.",
+  "Wenn Fiber meine Daten und meinen Verlauf aus MyFitnessPal oder MacroFactor importiert und mir für den Marathonaufbau konkret Kohlenhydrate rund um lange Läufe und Intervalle besser plant als meine jetzige App, sodass ich die alte kündigen kann.",
+  "Wenn ich sehe, dass Fiber geplante Garmin-Workouts im Voraus einbezieht, Garmin-Kalorien korrigiert statt blind übernimmt und ich Mahlzeiten tracken und vom Plan abweichen kann, mit Export der Daten.",
+  "Wenn Premium auch ohne Kochen funktioniert: Empfehlungen und Portionen für Kantine, Take-away und Fertigprodukte aus Migros/Coop, und die Daten sauber zurück in Garmin Connect schreibt.",
+  "Wenn Fiber mir sagt, was ich in der Kantine oder unterwegs wählen soll, also ein Menü fotografieren oder aus Coop/Migros-Fertigprodukten etwas Vegetarisches mit genug Protein vorschlagen, passend zu meinem Garmin-Training.",
+  "Wenn es ein reiner Rennvorbereitungs-Plan wäre, z.B. ein einmaliger Kauf für die 8–12 Wochen vor dem Zürich Marathon mit Carb-Loading und Renntags-Essen, ohne dass ich Zahlen sehen oder tracken muss.",
+  "Ein spezifischer Marathon-Block mit Carbo-Loading und Fueling-Plan für Renntag, den ich einmalig kaufen kann statt im Abo.",
+  "Wenn Training-Sync und Tagesplan in der Gratisversion wären oder ich nach dem Probemonat sehe, dass meine Long-Runs und Gewicht spürbar besser laufen, und Kolleginnen aus dem Laufclub sie empfehlen.",
+  "Wenn es mir sagen würde, was ich in der Kantine oder unterwegs nehmen soll, um mein Ziel vor dem Marathon zu treffen, und Leute aus dem Laufclub gute Erfahrungen damit hätten.",
+  "Ein Wochenplan für Meal-Prep mit grossen Portionen, der sich an meinen Trainingsblock vor dem Rennen anpasst, plus Import meiner Daten aus MacroFactor, sodass ich dort kündigen kann.",
+  "Ein Import meiner MyFitnessPal/MacroFactor-Historie plus echte Bewertungen von Leuten aus meinem Gym oder der Schweiz, die nach ein paar Monaten sagen, dass es besser ist als ihr alter Tracker.",
+  "Wenn mehrere Leute aus meinem Laufclub sagen, dass Fiber ihnen in der Marathonvorbereitung beim Carb-Loading und bei der Erholung spürbar geholfen hat, und die App solide Bewertungen hat, würde ich den Gratismonat vor meinem nächsten Rennen testen.",
+  "Wenn ich vor dem Abo sehe, wie viele vegetarische und laktosefreie Rezepte es gibt, z.B. eine Zahl oder eine Vorschau für eine ganze Trainingswoche mit meinem Proteinziel.",
+  "Wenn Fiber ohne Abwiegen und Tracking funktioniert, also nur grobe Richtwerte und konkrete Tipps rund ums Training gibt, und ich sehe, dass das meine Laufleistung oder Körperzusammensetzung messbar verbessert."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 100
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P068",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich esse mittags in der Kantine und abends oft unterwegs, ich koche nicht nach Rezept – ein Tagesplan mit Rezepten und Portionen passt einfach nicht zu meinem Alltag. Und Ernährungstipps bekomme ich schon von meinem Coach, der mich kennt.",
+  "objection": "Ich würde die Rezepte gar nicht kochen, also zahle ich für etwas, das ich nicht nutze – und ich will nicht zwei verschiedene Ratschläge von App und Coach bekommen.",
+  "would_change_my_mind": "Wenn die App mir zeigen würde, was ich in der Kantine, bei Migros-Take-away oder Coop-to-go wählen soll, statt Rezepte zu liefern – oder wenn mein Coach sie mir empfiehlt und die Daten mitsieht.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

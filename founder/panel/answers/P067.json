@@ -1,0 +1,13 @@
+{
+  "id": "P067",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ich würde die 14 Tage gratis testen, vielleicht sogar gern, aber vor Ablauf kündige ich wie immer. Für Tagesziele und Rezepte reicht mir die Gratisversion, und für mein Marathontraining zahle ich nicht noch ein Abo neben der Sportuhr.",
+  "objection": "Noch ein Abo für etwas, das ich mit Gratis-Apps und ein bisschen Erfahrung auch hinkriege. Und ich weiss nicht, ob es wirklich genug Rezepte für meine Ernährungsform gibt, die ich morgens vor der Arbeit im Gym auch umsetzen kann.",
+  "would_change_my_mind": "Wenn der Training-Sync mit Garmin und die angepassten Tagesziele in der Gratisversion wären, oder ein einmaliger Kauf statt Abo für meinen Rennblock.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

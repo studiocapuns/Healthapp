@@ -1,0 +1,13 @@
+{
+  "id": "P088",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich logge seit Jahren mit MyFitnessPal und MacroFactor und kenne meine Makros, Garmin zeigt mir die Trainingskalorien schon. Vielleicht teste ich die 14 Tage gratis, aber nach dem Test zahle ich nicht für eine zweite App neben der, die ich schon habe.",
+  "objection": "Ich habe schon eine App, die mein Ziel anpasst, und Garmin. Einen fixen Essensplan mit Rezepten brauche ich nicht, ich esse, was ich mag, und tracke es. Warum soll ich wechseln und meine ganze Historie aufgeben?",
+  "would_change_my_mind": "Wenn Fiber meine Daten und meinen Verlauf aus MyFitnessPal oder MacroFactor importiert und mir für den Marathonaufbau konkret Kohlenhydrate rund um lange Läufe und Intervalle besser plant als meine jetzige App, sodass ich die alte kündigen kann.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

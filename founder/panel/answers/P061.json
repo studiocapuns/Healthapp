@@ -1,0 +1,13 @@
+{
+  "id": "P061",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich lade es mir vielleicht runter, nutze die Gratis-Tagesziele und Rezepte und starte die 14 Tage Probe, aber danach kündige ich wie bei jedem Abo. Für meinen Wiedereinstieg reicht mir eine Gratis-App, ich zahle nicht monatlich fürs Essen-Planen.",
+  "objection": "Ob es wirklich genug Rezepte für meine Ernährungsform gibt, die ich morgens vor dem Gym und abends schnell kochen kann, und ob das den Aufpreis gegenüber Gratis-Apps wert ist.",
+  "would_change_my_mind": "Eine einmalige Zahlung statt Abo, oder wenn ich in den 14 Tagen messbar abnehme ohne mich zu quälen.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

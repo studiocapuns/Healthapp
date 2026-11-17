@@ -1,0 +1,13 @@
+{
+  "id": "P081",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich habe schon eine Coachin, die meine Ernährung auf meinen HYROX- und Triathlon-Plan abstimmt, und tracke sonst mit Garmin und YAZIO. Ein generischer Tagesplan aus einer App würde mit ihren Vorgaben nur kollidieren.",
+  "objection": "Eine App kennt meinen Trainingsblock, meine Rennphase und meinen Körper nicht so wie meine Coachin – warum sollte ich zwei Quellen haben, die mir Verschiedenes sagen?",
+  "would_change_my_mind": "Wenn meine Coachin Fiber selbst nutzen und meine Pläne darin einstellen könnte, sodass es ihr Werkzeug wird statt Konkurrenz.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

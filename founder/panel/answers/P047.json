@@ -1,0 +1,13 @@
+{
+  "id": "P047",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich koche lieber meine eigenen gespeicherten Instagram-Rezepte als einen fixen Tagesplan, und Kalorien tracke ich sowieso nicht. Die 14 Tage gratis würde ich vielleicht testen, aber ich sehe mich danach nicht CHF 9.90 im Monat zahlen, wenn MyFitnessPal und Runna schon da sind.",
+  "objection": "Ein vorgegebener Essensplan passt nicht zu mir. Ich will kochen, worauf ich Lust habe, und nicht noch eine App, die mir sagt, was ich essen soll.",
+  "would_change_my_mind": "Wenn ich meine eigenen Instagram-Rezepte importieren könnte und Fiber mir einfach die Portionen für Trainingstage ausrechnet, ohne dass ich etwas zählen muss.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

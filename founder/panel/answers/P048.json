@@ -1,0 +1,13 @@
+{
+  "id": "P048",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich logge seit Jahren mit MacroFactor, das passt meine Ziele schon an, und ich koche sonntags für die ganze Woche vor. Ein täglich neuer Essensplan passt nicht zu meinem Meal-Prep, und ich zahle nicht für eine zweite App, die halb dasselbe macht.",
+  "objection": "Tagespläne mit Rezepten sind für mich als Batch-Cookerin unpraktisch, und ich bezweifle, dass die Zielanpassung an Trainingstage besser ist als das, was ich schon habe. Ehrlich gesagt nervt mich das ganze Zählen ohnehin schon, eine weitere App macht es nicht leichter.",
+  "would_change_my_mind": "Wenn Fiber einen Wochen-Meal-Prep-Plan mit einer Einkaufsliste für den Sonntag machen würde und mein Logging in MacroFactor oder YAZIO ersetzen könnte, also nicht noch eine App dazu.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

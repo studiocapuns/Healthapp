@@ -1,0 +1,13 @@
+{
+  "id": "P082",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich laufe zweimal pro Woche mit dem Laufclub, ich bin keine Athletin, die Makros pro Trainingstag braucht. Unter der Woche esse ich sowieso in der Kantine oder unterwegs, und Rezepte sammle ich gratis auf Instagram.",
+  "objection": "Das ist am Ende doch wieder Kalorienzählen mit Portionsgrössen und Tageszielen, und genau das hasse ich. Ein Tagesplan bringt mir nichts, wenn ich mittags gar nicht selber koche.",
+  "would_change_my_mind": "Wenn es ohne Zahlen ginge: einfach gute Wochenend-Rezepte, die zu meinem Lauftag passen, plus konkrete Tipps, was ich in der Kantine wählen soll, ohne dass ich etwas tracken muss.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

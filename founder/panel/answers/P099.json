@@ -1,0 +1,13 @@
+{
+  "id": "P099",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "Ich würde die 14 Tage gratis testen, aber zahlen erst, wenn ich sehe, dass es genug vegetarische, laktosefreie Rezepte mit genug Protein gibt. Zu oft bekomme ich bei solchen Apps immer dieselben drei Tofu-Gerichte, und darum zahle ich im ersten Monat wahrscheinlich noch nichts.",
+  "objection": "Gibt es wirklich genug Rezepte für meine Ernährungsform, die auch auf Muskelaufbau ausgelegt sind, oder ist 'angepasst an Ernährungsform' nur ein Filter, der die Auswahl auf fast nichts reduziert?",
+  "would_change_my_mind": "Wenn ich vor dem Abo sehe, wie viele vegetarische und laktosefreie Rezepte es gibt, z.B. eine Zahl oder eine Vorschau für eine ganze Trainingswoche mit meinem Proteinziel.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 18
+}

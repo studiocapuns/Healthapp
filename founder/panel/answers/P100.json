@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Die Garmin- und Strava-Anbindung reizt mich als Daten-Nerd schon, aber ein Tagesplan mit Portionsgrössen ist für mich nur Kalorienzählen in anderer Verpackung. Ich würde vielleicht die Gratis-Tagesziele anschauen, aber nach zwei Wochen Trial wäre ich wieder bei meinem normalen Essen und würde nicht zahlen.",
+  "objection": "Ich will mein Essen nicht durchplanen und abwiegen müssen, das fühlt sich zwanghaft an und hält im Alltag mit Familie und Laufclub sowieso nicht durch.",
+  "would_change_my_mind": "Wenn Fiber ohne Abwiegen und Tracking funktioniert, also nur grobe Richtwerte und konkrete Tipps rund ums Training gibt, und ich sehe, dass das meine Laufleistung oder Körperzusammensetzung messbar verbessert.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

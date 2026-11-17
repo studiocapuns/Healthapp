@@ -1,0 +1,13 @@
+{
+  "id": "P071",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Garmin-Sync klingt gut, aber jede App behauptet, sie rechne den Verbrauch genau, und die Kalorienzahlen der Uhr selbst sind schon ungenau. Die 14 Tage würde ich vielleicht testen, aber einen fixen Essensplan will ich eigentlich nicht, ich will sehen, ob die Zahlen stimmen.",
+  "objection": "Ich sehe nirgends, wie genau Fiber den Bedarf an Trainingstagen berechnet und ob das besser ist als bei MyFitnessPal oder Garmin selbst. Eine Schweizer Nährwertdatenbank ist nett, aber das Problem ist der Verbrauch, nicht die Nährwerte vom Rüebli.",
+  "would_change_my_mind": "Eine offengelegte Methode, wie aus Garmin-Daten (Pace, Puls, Dauer) das Tagesziel wird, plus ein Vergleich mit gemessenen Werten oder ein Kohlenhydrat-Plan speziell für lange Läufe und Marathon-Vorbereitung.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 9,
+  "price_too_expensive": 15
+}

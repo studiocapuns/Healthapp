@@ -1,0 +1,13 @@
+{
+  "id": "P086",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich würde die 14 Tage gratis vielleicht testen, aber vor Ablauf kündigen, wie bei jedem Abo. Mittags esse ich sowieso in der Kantine, da nützt mir ein Tagesplan mit Rezepten und Portionen wenig, und die Gratis-Tagesziele reichen mir.",
+  "objection": "Ich glaube nicht, dass das wirklich genauer ist als die Gratis-Apps, die ich schon habe, und mein Kantinenessen kann ich da sowieso nicht sauber erfassen.",
+  "would_change_my_mind": "Wenn ich im Probemonat vor einem Rennen merke, dass mein Long-Run-Fueling und die Erholung spürbar besser werden, also einen echten Leistungsunterschied sehe.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

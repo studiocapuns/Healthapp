@@ -1,0 +1,13 @@
+{
+  "id": "P076",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Ich esse vegetarisch und finde für meine Marathonvorbereitung kaum Pläne, die das wirklich berücksichtigen – wenn das mit Garmin sauber synchronisiert, sind 79 Franken im Jahr für mich kein Thema. Ich starte das Gratis-Abo und zahle nur, wenn es nach zwei Wochen wirklich zu meinen langen Läufen und Intervalltagen passt.",
+  "objection": "Ich weiss nicht, ob Fiber meinen geplanten Trainingstag kennt oder nur das bereits gelaufene Training von Garmin liest – Carb-Loading vor dem Longrun bringt mir nach dem Lauf nichts mehr.",
+  "would_change_my_mind": "Wenn sich im Test zeigt, dass die Pläne nur die geloggten Einheiten nachträglich verrechnen und nicht meinen Trainingsplan im Voraus berücksichtigen, kündige ich vor Ablauf der 14 Tage.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

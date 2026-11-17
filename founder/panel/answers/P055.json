@@ -1,0 +1,13 @@
+{
+  "id": "P055",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mein Coach gibt mir schon Makros und Ernährungstipps, und ich koche sonntags für die ganze Woche vor. Ein täglich wechselnder Essensplan passt nicht zu meinem Meal-Prep, und für ein zweites System neben dem Coach zahle ich nicht.",
+  "objection": "Ich weiss nicht, ob es genug Rezepte für meine Ernährungsform gibt, die sich in grossen Mengen vorkochen lassen, und ob die Ziele der App nicht mit dem kollidieren, was mein Coach mir vorgibt.",
+  "would_change_my_mind": "Ein Wochen-Meal-Prep-Modus mit einer Einkaufsliste für den Sonntag, bei dem mein Coach die Makroziele einstellen oder sehen kann.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

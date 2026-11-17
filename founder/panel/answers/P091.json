@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich koche nicht nach Rezept, mittags esse ich in der Kantine und sonst unterwegs. Ein Tagesplan mit Rezepten und Portionen passt nicht zu meinem Alltag. Die Garmin-Anbindung und die vegetarischen Pläne finde ich zwar spannend, aber für 9.90 im Monat würde ich die Hälfte davon gar nicht nutzen.",
+  "objection": "Die App geht davon aus, dass ich selber koche. Was mache ich mit dem Kantinenmenü oder einem Sandwich vom Bahnhof? Dann stimmt der ganze Plan nicht mehr.",
+  "would_change_my_mind": "Wenn Fiber mir sagt, was ich in der Kantine oder unterwegs wählen soll, also ein Menü fotografieren oder aus Coop/Migros-Fertigprodukten etwas Vegetarisches mit genug Protein vorschlagen, passend zu meinem Garmin-Training.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P041",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Klingt vernünftig, und die Schweizer Nährwertdatenbank plus SVDE-Prüfung gefällt mir, aber ohne eine einzige App-Store-Bewertung und ohne dass jemand im Laufclub sie nutzt, zahle ich nichts. Vielleicht lade ich die Gratisversion runter und schaue mir die Tagesziele an, aber Premium abonniere ich so schnell nicht – ich koche eh am Sonntag vor und komme mit meinem Plan einigermassen klar.",
+  "objection": "Eine neue App ohne Bewertungen – wer steckt dahinter, was passiert mit meinen Garmin- und Gesundheitsdaten, und stimmen die Kalorienziele wirklich, oder ist das nur ein hübscher Rechner?",
+  "would_change_my_mind": "Wenn zwei, drei Leute aus meinem Laufclub sie ein paar Monate nutzen und sagen, dass die Ziele und Portionen bei ihnen funktioniert haben, plus solide Bewertungen im App Store.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

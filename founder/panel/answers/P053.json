@@ -1,0 +1,13 @@
+{
+  "id": "P053",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I've logged with MacroFactor for years and it already adjusts my targets to what I actually do. And the meal plan is the main thing in Premium, but I eat in the canteen four or five days a week, so I'd use it for dinner at most.",
+  "objection": "Nothing here shows me it's more accurate than what I already use. The Swiss database is nice, but Garmin calorie estimates are rough, so a target built on them isn't automatically better than MacroFactor's expenditure algorithm.",
+  "would_change_my_mind": "If I could log canteen meals properly and get a side-by-side comparison showing the targets beat MacroFactor's for someone who trains, I'd try the 14 days.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

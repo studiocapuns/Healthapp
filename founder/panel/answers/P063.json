@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Wenn Fiber wirklich meine Garmin-Daten zieht und das Makroziel an Trainingstagen automatisch hochschraubt, spart mir das das tägliche Rechnen. Ich teste die 14 Tage, und wenn der Sync sauber läuft, nehme ich das Jahresabo für CHF 79, das tut mir nicht weh.",
+  "objection": "Gibt es genug Rezepte für meine Ernährungsform, oder sehe ich nach zwei Wochen dreimal dasselbe Poulet mit Reis? Und ich will wissen, ob der Garmin-Sync echt mit Trainingslast und Kalorienverbrauch rechnet oder nur Schritte grob schätzt.",
+  "would_change_my_mind": "Wenn im Trial der Garmin-Sync hakt oder die Rezeptauswahl für hohe Kohlenhydrat-Tage vor langen Einheiten dünn ist, kündige ich vor Tag 14.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

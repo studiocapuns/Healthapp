@@ -1,0 +1,13 @@
+{
+  "id": "P050",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich laufe zweimal pro Woche mit dem Club und habe Garmin und Strava schon voll im Griff. Einen täglichen Essensplan mit Portionen werde ich realistischerweise nicht kochen, also zahle ich nicht noch ein Abo dafür. Die 14 Tage Gratis-Test mache ich vielleicht, um zu sehen, wie die Garmin-Daten genutzt werden, aber danach kündige ich wohl.",
+  "objection": "Noch ein Abo für CHF 9.90 im Monat, und ich glaube nicht, dass ich mich an einen fixen Tagesplan halte. Ausserdem frage ich mich, ob Fiber wirklich mehr aus meinen Garmin-Daten macht als eine simple Kalorienschätzung.",
+  "would_change_my_mind": "Wenn Fiber konkret auf meinen Marathon-Trainingsplan eingeht, also Carb-Loading und Verpflegung für lange Läufe und den Renntag automatisch aus Garmin plant und die Daten sauber zurück in Garmin Connect schreibt.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

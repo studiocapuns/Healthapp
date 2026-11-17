@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich würde die 14 Tage gratis testen, mir die Rezepte und Tagesziele anschauen und dann vor dem Ende kündigen. Das mache ich bei jedem Abo so, und die Gratis-Version mit Tageszielen reicht mir für die Marathon-Vorbereitung wahrscheinlich schon.",
+  "objection": "Ich zahle grundsätzlich nicht für Apps, und ich weiss nicht, ob es genug Rezepte für meine Ernährungsform gibt, damit sich ein Abo gegenüber Gratis-Apps überhaupt lohnt.",
+  "would_change_my_mind": "Wenn mir der Tagesplan im Probemonat vor dem Greifenseelauf spürbar mehr Energie im Training bringt und es genug Rezepte für mich gibt, würde ich vielleicht das Jahresabo zu einem tieferen Preis nehmen.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P066",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich logge seit Jahren mit MacroFactor, das passt meine Ziele schon an, und ich kenne meine Makros. Einen fixen Essensplan brauche ich nicht, und ich zahle nicht zwei Apps für dasselbe – vielleicht teste ich die 14 Tage, aber danach würde ich kündigen.",
+  "objection": "Eine neue App ohne Bewertungen, keiner weiss, wer dahinter steckt, und ob sie wirklich besser ist als MacroFactor, wo meine ganze Historie drin ist. Ein Tagesplan mit Rezepten passt auch nicht zu meinem Alltag, ich kaufe nach der Arbeit bei Migros ein, was gerade passt.",
+  "would_change_my_mind": "Wenn Fiber mein MacroFactor/MyFitnessPal-Log importieren könnte und es einen echten Marathon-Vorbereitungsmodus gäbe (Carb-Loading, Long-Run-Tage), mit guten Bewertungen von anderen Läufer/innen in der Schweiz.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 9,
+  "price_too_expensive": 14
+}

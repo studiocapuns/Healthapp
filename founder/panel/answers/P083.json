@@ -1,0 +1,13 @@
+{
+  "id": "P083",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Garmin- und Strava-Sync, der mein Kalorienziel an Lauf- und Krafttage anpasst, ist genau das, was ich sonst in Tabellen selber rechne. Ich mache die 14 Tage Test und wenn es sauber synchronisiert, nehme ich erst mal das Monatsabo, nicht gleich das Jahr.",
+  "objection": "Ob es für meine Ernährungsform genug Rezepte gibt oder ob ich nach zwei Wochen immer dasselbe Poulet mit Reis sehe. Und ob ich auch selber erfassen kann, was ich wirklich esse, statt nur einen Plan zu bekommen.",
+  "would_change_my_mind": "Wenn der Garmin-Sync im Test hakt oder die Rezeptauswahl für mich nach einer Woche schon repetitiv ist, kündige ich vor Ablauf der Gratisphase.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 18
+}

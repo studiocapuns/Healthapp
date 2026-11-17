@@ -1,0 +1,13 @@
+{
+  "id": "P058",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Ich würde vielleicht die 14 Tage gratis testen, aber zahlen eher nicht: Ich will tracken und messen, nicht nach einem fixen Essensplan kochen. YAZIO und Garmin decken mein Tracking schon ab, und ein vorgegebener Tagesplan passt selten zu meinem Alltag mit Einkauf nach der Arbeit bei Migros oder Coop.",
+  "objection": "Ich sehe nirgends, dass ich mein Essen einfach loggen oder Migros- und Coop-Produkte scannen kann, und nicht, ob die Daten zurück in Garmin Connect fliessen. Dann ist es noch eine App mehr neben allem, was ich schon habe.",
+  "would_change_my_mind": "Wenn Fiber Barcode-Scan für Migros/Coop-Produkte hätte und Kalorien und Makros automatisch zurück in Garmin Connect schreiben würde, sodass es meine Tracking-App ersetzt statt sie zu ergänzen.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

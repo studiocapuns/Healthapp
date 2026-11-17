@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "Ich würde die 14 Tage gratis testen, aber ich zahle nur, wenn der Garmin-Sync wirklich tief geht und nicht nur verbrannte Kalorien draufrechnet. Und ich sehe nirgends, dass ich mein Essen tracken kann, ein fixer Essensplan passt schlecht zu meinem Alltag.",
+  "objection": "Garmin überschätzt den Kalorienverbrauch notorisch. Wenn Fiber diese Zahl einfach übernimmt, ist mein Makroziel falsch und mein Defizit weg. Ausserdem steht nicht da, ob es Body Battery, Trainingsbelastung oder meinen geplanten Trainingsplan einbezieht oder nur vergangene Aktivitäten.",
+  "would_change_my_mind": "Wenn ich sehe, dass Fiber geplante Garmin-Workouts im Voraus einbezieht, Garmin-Kalorien korrigiert statt blind übernimmt und ich Mahlzeiten tracken und vom Plan abweichen kann, mit Export der Daten.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

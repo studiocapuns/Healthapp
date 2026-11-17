@@ -1,0 +1,13 @@
+{
+  "id": "P051",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ich fange gerade erst wieder an zu trainieren, da reichen mir die Gratis-Tagesziele vorerst. Noch ein Abo für CHF 9.90 im Monat zahle ich nicht für eine App, die noch keine Bewertungen hat und die niemand im Laufclub kennt.",
+  "objection": "Ein weiteres Abo, das sich summiert, und ich weiss nicht, ob ich die Essenspläne nach zwei Wochen überhaupt noch befolge. Neue App ohne App-Store-Bewertungen.",
+  "would_change_my_mind": "Wenn ein paar Leute aus dem Laufclub sie nutzen und gute Bewertungen im App Store stehen, würde ich nach dem Gratis-Test das Jahresabo für CHF 79 nehmen, eher noch unter CHF 60.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

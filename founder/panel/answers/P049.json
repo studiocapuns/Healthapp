@@ -1,0 +1,13 @@
+{
+  "id": "P049",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Die Garmin- und Strava-Anbindung reizt mich, und ich würde die 14 Gratistage wohl ausprobieren. Aber ich zahle schon Strava und andere Abos, und noch einmal CHF 9.90 im Monat dafür, dass mir jemand sagt, was ich essen soll, rechtfertigt sich für mich im Moment nicht.",
+  "objection": "Noch ein Abo. Und ich esse vor dem Marathon sowieso ziemlich strukturiert: Kohlenhydrate vor langen Läufen, Gels im Rennen. Ich weiss nicht, ob ein täglicher Essensplan mit Portionen in meinen Alltag passt oder ob ich ihn nach zwei Wochen ignoriere.",
+  "would_change_my_mind": "Wenn die Trainingssynchronisation im Probezeitraum wirklich automatisch läuft und mir konkrete Fueling-Empfehlungen für meine langen Läufe und den Renntag gibt, die ich nicht schon kenne, würde ich das Jahresabo für CHF 79 vor dem Zürich Marathon nehmen.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 13
+}

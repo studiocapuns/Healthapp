@@ -1,0 +1,13 @@
+{
+  "id": "P077",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Unter der Woche esse ich mittags in der Kantine und abends oft unterwegs, ich koche nicht nach Rezept. Ein Tagesplan mit Rezepten und Portionen passt einfach nicht zu meinem Alltag, auch wenn die vegetarische Anpassung gut klingt.",
+  "objection": "Was soll ich mit einem Essensplan voller Rezepte, wenn ich mittags nehme, was die Kantine hat? Ich bräuchte Hilfe beim Auswählen, nicht beim Kochen.",
+  "would_change_my_mind": "Wenn Fiber mir sagen könnte, welches Kantinen- oder Take-away-Menü (vegetarisch, laktosefrei) heute am besten zu meinem Trainingstag passt und wie ich den Rest des Tages darum herum plane.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 9,
+  "price_too_expensive": 14
+}

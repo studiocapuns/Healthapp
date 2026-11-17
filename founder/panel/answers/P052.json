@@ -1,0 +1,13 @@
+{
+  "id": "P052",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich würde die 14 Tage gratis testen, aber ich zahle grundsätzlich nicht für Apps und kündige vor Ablauf. Die Gratis-Tagesziele reichen mir wahrscheinlich, ich koche sowieso nicht nach Tagesplan.",
+  "objection": "Ob das wirklich sauber mit meiner Garmin und meinem Marathonplan zusammenspielt und die Kohlenhydrate an lange Läufe und Intervalle anpasst, oder ob es nur grob Kalorien vom Training addiert.",
+  "would_change_my_mind": "Wenn ich in den 14 Tagen merke, dass sich meine langen Läufe spürbar besser anfühlen und der Garmin-Sync mit meinem Trainingsplan wirklich automatisch funktioniert – dann vielleicht das Jahresabo.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 7,
+  "price_too_expensive": 12
+}

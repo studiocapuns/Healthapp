@@ -1,0 +1,13 @@
+{
+  "id": "P090",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Die Garmin-Verknüpfung und das Makroziel nach Trainingstag finde ich spannend, das würde ich gratis ausprobieren. Aber das Herzstück von Premium sind Tagespläne mit Rezepten und Einkaufsliste, und ich koche nicht nach Rezept, ich esse mittags in der Kantine und sonst unterwegs.",
+  "objection": "Ein Essensplan mit Rezepten und Portionen nützt mir nichts, wenn ich das meiste nicht selbst koche. Ich müsste eher wissen, was ich am Kantinenbuffet oder am Bahnhof nehmen soll, und das steht nirgends.",
+  "would_change_my_mind": "Wenn Premium auch ohne Kochen funktioniert: Empfehlungen und Portionen für Kantine, Take-away und Fertigprodukte aus Migros/Coop, und die Daten sauber zurück in Garmin Connect schreibt.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 9,
+  "price_too_expensive": 15
+}

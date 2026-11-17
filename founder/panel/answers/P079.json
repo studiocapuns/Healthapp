@@ -1,0 +1,13 @@
+{
+  "id": "P079",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ich logge seit Jahren mit MacroFactor, das passt meine Ziele schon an mein Gewicht und meinen Verbrauch an, und mit Garmin habe ich die Trainingsdaten. Unter der Woche esse ich mittags in der Kantine, ein Tagesplan mit Rezepten und Portionen bringt mir da wenig.",
+  "objection": "Ich zahle nicht ein zweites Abo für Makroziele, die ich schon habe, und einen Essensplan, den ich wegen der Kantine sowieso nicht kochen kann. Auf Fiber umsteigen hiesse, mein ganzes Logging und meine Historie aufzugeben.",
+  "would_change_my_mind": "Wenn Fiber MacroFactor ganz ersetzen könnte, also schnelles Logging mit Barcode und eine Lösung für Kantinenessen, und ich meine bisherigen Daten importieren könnte.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}
