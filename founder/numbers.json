@@ -1,0 +1,29 @@
+{
+  "business": "Fiber – Ernährungs-App für Menschen, die trainieren (Schweiz)",
+  "unit": "zahlender Abo-Monat (Mix aus Jahres- und Monatsabo, CHF ohne MWST)",
+  "price": 5.37,
+  "variable": [
+    {"label": "App-Store-Provision 15 % (Small Business Program)", "cost": 0.81},
+    {"label": "Hosting/Datenbank/Bilder pro aktivem Nutzer (Schätzung)", "cost": 0.10},
+    {"label": "Support pro Abo (Schätzung)", "cost": 0.10}
+  ],
+  "fixed_monthly": [
+    {"label": "Ernährungsberatung SVDE: laufende Prüfung neuer Rezepte/Artikel, 8 Std. à CHF 150 (Schätzung)", "cost": 1200},
+    {"label": "Marketing laufend (Laufclub-Partnerschaften, Content, Events) – Annahme", "cost": 1000},
+    {"label": "Supabase Pro + Monitoring (USD 25 + Reserve)", "cost": 45},
+    {"label": "Apple Developer (CHF 99/Jahr) + Google Play anteilig", "cost": 10},
+    {"label": "Domain, E-Mail, Tools", "cost": 40},
+    {"label": "Versicherung/Buchhaltung (Schätzung)", "cost": 150}
+  ],
+  "startup": [
+    {"label": "SVDE-Erstprüfung 58 Rezepte + 15 Artikel, ca. 40 Std. à CHF 150 (Schätzung)", "cost": 6000},
+    {"label": "Datenschutz/AGB-Prüfung revDSG (Schätzung)", "cost": 3000},
+    {"label": "Eigene Food-Fotografie (ersetzt Unsplash) (Schätzung)", "cost": 3000},
+    {"label": "Launch-Marketing: Pilot mit 2–3 Laufclubs, Volkslauf-Stand (Annahme)", "cost": 5000},
+    {"label": "Firmengründung GmbH, Notar/Handelsregister (ohne Stammkapital) (Schätzung)", "cost": 1500}
+  ],
+  "days_per_month": 1,
+  "capacity_per_day": 100000,
+  "plan_per_day": 800,
+  "ramp_per_day": [0, 0, 25, 55, 90, 130, 175, 225, 280, 340, 400, 460]
+}
